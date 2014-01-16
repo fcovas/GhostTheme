@@ -1,6 +1,6 @@
-# Casper
+# Casper (modified) -> GhostTheme
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+The default theme for [Ghost](http://github.com/tryghost/ghost/) modified by Paul Bakker and renamed GhostTheme.
 
 ## Copyright & License
 
