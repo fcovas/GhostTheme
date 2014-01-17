@@ -3,6 +3,8 @@
 The default theme for [Ghost](http://github.com/tryghost/ghost/) modified by Paul Bakker and renamed GhostTheme.
 Developed because of the need to display links to static pages in Casper after the release of Ghost 0.4.0.
 
+Demo at my blog: http://paulbakker.com
+
 * Added a mobile safe menu in default.hbs using jPushMenu.js - https://github.com/takien/jPushMenu
 * Changed font-weight styles on Post and Blog Title
 * Moved Post Meta under Post Title
