@@ -1,13 +1,14 @@
-# Casper (modified) -> GhostTheme for Ghost 0.4
+# Casper (modified) -> GhostTheme 
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/) modified by Paul Bakker and renamed GhostTheme.
+GhostTheme was developed because of the need to display links to static pages after the re;ease of Ghost 0.4.0.
 
 * Added a mobile safe menu in default.hbs using jPushMenu.js - https://github.com/takien/jPushMenu
 * Changed font-weight styles on Post and Blog Title
 * Moved Post Meta under Post Title
 * Changed DateTime display on Post Meta
 * Added Font Awesome 4.03 - https://github.com/FortAwesome/Font-Awesome
-* Used Font Awesome in the added menu and added social media icons on default.hbs
+* Used Font Awesome in menu links and social media icons on default.hbs
 
 ## Copyright & License
 
