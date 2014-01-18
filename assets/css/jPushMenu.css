@@ -62,6 +62,7 @@ button {
 	height: 100%;
 	top: 0;
 	z-index: 1000;
+	border-right: 1px solid #000;
 }
 
 .cbp-spmenu-vertical a {
@@ -93,11 +94,11 @@ button {
 /* Vertical menu that slides from the left or right */
 
 .cbp-spmenu-left {
-	left: -210px;
+	left: -211px;
 }
 
 .cbp-spmenu-right {
-	right: -210px;
+	right: -211px;
 }
 
 .cbp-spmenu-left.cbp-spmenu-open {
